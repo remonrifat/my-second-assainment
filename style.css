@@ -59,19 +59,29 @@ top: 207px;
     border-radius: 30px;
   }
 
+  .footer-left{
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin-left: 550px;
+  }
+  .socials{
+      justify-content: center;
+      margin-left: 330px;
+      font-size: 60px;
+
+  }
+
+  .copy-vai{
+      justify-content: center;
+      margin-left: 910px;
+      font-size: 20px;
+  }
 
 
 
 
 
-
-
-.foot-container{
-    margin-left: 1100px;
-    padding-top: 100px;
-    
-
-}
 
 
 
