@@ -82,12 +82,32 @@ top: 207px;
       margin-left: 910px;
       font-size: 20px;
   }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
 
 
  /* media queries */
 
  @media  only screen and (max-width:688px) {
-     
+     .head-vai{
+         background-color: blueviolet;
+         grid-template-columns: repeat(1, 1fr);
+     }
  }
 
 
